@@ -1,5 +1,8 @@
 # DiscordDevTools
 
+## Status
+#### Not working. Ask the developer for new the latest release.
+
 ## What are they?
 #### The Discord dev tools are a set of options that allow you to enable and configure upcoming features, usually,these are only available to beta testers, but by using this code you can enable them for yourself!
 
